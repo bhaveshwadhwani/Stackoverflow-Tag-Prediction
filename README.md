@@ -15,7 +15,7 @@ Source: https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/
 3. No strict latency constraints.
 
 ## How to Run the Model
-Just download the repository then run all the cells of file "SO-Tag_prediction" one-by-one.
+Just download the repository then run all the cells of notebook "StackOverflow_Tag_prediction" one-by-one.
 
 ## Prerequisites
 You need to have installed following softwares and libraries in your machine before running this project.
